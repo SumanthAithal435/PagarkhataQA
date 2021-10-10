@@ -1,0 +1,8 @@
+16:23:48.538 [login] INFO  resources.base - Clicked on Continue CTA
+16:23:53.884 [login] INFO  resources.base - OTP Bypassed
+16:25:29.336 [main] INFO  resources.base - Driver is initialized
+16:25:51.853 [main] INFO  resources.base - Navigated to Landing page
+16:25:52.889 [main] INFO  resources.base - Clicked on Nothanks CTA
+16:25:58.553 [main] INFO  resources.base - Language selection Dropdown
+16:26:01.802 [main] INFO  resources.base - Selected Hindi language
+16:26:02.333 [main] INFO  resources.base - Clicked on Continue CTA

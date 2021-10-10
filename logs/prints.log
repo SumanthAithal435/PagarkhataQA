@@ -1,0 +1,41 @@
+16:26:02.646 [main] INFO  resources.base - Entered 9880128229 in Number textfield
+16:26:06.786 [main] INFO  resources.base - Clicked on Continue CTA
+16:26:13.372 [main] INFO  resources.base - OTP Bypassed
+16:29:53.767  INFO  resources.base - Driver is initialized
+16:30:06.667  INFO  resources.base - Navigated to Landing page
+16:30:06.919  INFO  resources.base - Clicked on Nothanks CTA
+16:30:07.554  INFO  resources.base - Language selection Dropdown
+16:30:20.132  INFO  resources.base - Selected Hindi language
+16:30:20.630  INFO  resources.base - Clicked on Continue CTA
+16:30:20.958  INFO  resources.base - Entered 9880128229 in Number textfield
+initialize [initialize] INFO  resources.base - Driver is initialized
+initialize [initialize] INFO  resources.base - Navigated to Landing page
+login [login] INFO  resources.base - Clicked on Nothanks CTA
+login [login] INFO  resources.base - Language selection Dropdown
+16:37:39.592 initialize INFO  resources.base - Driver is initialized
+16:37:48.439 initialize INFO  resources.base - Navigated to Landing page
+16:37:48.711 login INFO  resources.base - Clicked on Nothanks CTA
+16:37:53.882 login INFO  resources.base - Language selection Dropdown
+16:38:00.937 login INFO  resources.base - Selected Hindi language
+16:38:01.464 login INFO  resources.base - Clicked on Continue CTA
+16:38:03.740 login INFO  resources.base - Entered 9880128229 in Number textfield
+16:38:07.029 login INFO  resources.base - Clicked on Continue CTA
+16:38:10.995 login INFO  resources.base - OTP Bypassed
+16:43:15.399 []initialize] INFO  resources.base - Driver is initialized
+16:43:35.867 []initialize] INFO  resources.base - Navigated to Landing page
+16:43:46.027 []login] INFO  resources.base - Clicked on Nothanks CTA
+16:43:49.226 []login] INFO  resources.base - Language selection Dropdown
+16:43:52.694 []login] INFO  resources.base - Selected Hindi language
+16:43:54.327 []login] INFO  resources.base - Clicked on Continue CTA
+16:43:57.135 []login] INFO  resources.base - Entered 9880128229 in Number textfield
+16:44:00.312 []login] INFO  resources.base - Clicked on Continue CTA
+16:44:03.634 []login] INFO  resources.base - OTP Bypassed
+16:48:38 [initialize] INFO  - Driver is initialized
+16:48:46 [initialize] INFO  - Navigated to Landing page
+16:48:47 [login] INFO  - Clicked on Nothanks CTA
+16:48:48 [login] INFO  - Language selection Dropdown
+16:48:52 [login] INFO  - Selected Hindi language
+16:48:53 [login] INFO  - Clicked on Continue CTA
+16:48:53 [login] INFO  - Entered 9880128229 in Number textfield
+16:48:58 [login] INFO  - Clicked on Continue CTA
+16:49:05 [login] INFO  - OTP Bypassed
